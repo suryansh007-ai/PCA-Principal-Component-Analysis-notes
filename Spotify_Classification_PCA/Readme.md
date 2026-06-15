@@ -1,4 +1,4 @@
-#Spotify Genre Analysis using PCA,Logistic Regression,and K-Means Clustering
+# Spotify Genre Analysis using PCA, Logistic Regression, and K-Means Clustering
 
 ## Overview
 
