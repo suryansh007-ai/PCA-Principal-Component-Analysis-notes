@@ -227,7 +227,7 @@ My takeaway:
 * Logistic Regression achieved nearly 49% accuracy on a difficult 114-class genre problem.
 * K-Means can discover natural groupings in music without being given genre labels.
 * Features such as energy, loudness, acousticness, and danceability capture meaningful musical patterns.
-
+*For visualization and practice, I also tried reducing features to 3(from 15 numeric features) and visualized them in 3D using plotly
 ---
 
 ## Libraries Used
